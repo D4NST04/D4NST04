@@ -1,6 +1,6 @@
-# <center> Hello there 👋, I'm Daniel </center> 
+# <h1 align="center"> Hello there 👋, I'm Daniel </h1> 
 
-### <center> An ICT student actively looking for opportunity to use my skills in real job</center>
+### <h3 align="center"> An ICT student actively looking for opportunity to use my skills in real job</h3>
 
 ## 👀 About me:
 * 3rd year student of Information and Communication Technologies at AGH University of Cracow
